@@ -1,0 +1,35 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: OptiWing Airfoils Database
+message: >-
+  If you use this dataset, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Ruthwik
+    family-names: Chivukula
+    affiliation: IIT Madras
+  - given-names: Sriram
+    family-names: Pillutla
+    affiliation: IIT Madras
+  - given-names: Anirudh
+    family-names: Kalyan
+    affiliation: IIT Madras
+  - given-names: Akshay
+    family-names: Govind
+    affiliation: IIT Madras
+  - given-names: Shabarish
+    family-names: Balaji
+    affiliation: IIT Madras
+  - given-names: Yash
+    family-names: Gawande
+    affiliation: IIT Madras
+repository-code: 'https://github.com/therealram18/OptiwingAirfoilsDatabase'
+abstract: >-
+  This is an airfoil database curated for inverse airfoil
+  design, using the airfoils stored in the UIUC Airfoil Data
+  Site.
+license: MIT
+date-released: '2025-07-24'
